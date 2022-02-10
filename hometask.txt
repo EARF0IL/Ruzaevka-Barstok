@@ -1,1 +1,13 @@
 В origin/hat отсутствуют пуговицы и ботинки
+
+1. hometask
+2. Merge branch 'boots_buttons'
+3. Merge remote-tracking branch 'origin/hat'
+4. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+5. Merge remote-tracking branch 'origin/boots' into boots_buttons
+5. fix readme
+7. dots
+8. README added
+9. boots
+10. heat added
+11. init
